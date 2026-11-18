@@ -1,4 +1,4 @@
-name: MSBuild
+name: MSBuildY
 
 on: [push, pull_request]
 
